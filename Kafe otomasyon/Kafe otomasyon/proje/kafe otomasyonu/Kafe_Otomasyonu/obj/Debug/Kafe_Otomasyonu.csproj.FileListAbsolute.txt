@@ -1,0 +1,56 @@
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.exe.config
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.exe
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.pdb
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmKullaniciEkle.resources
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmAna.resources
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmGiris.resources
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmMasa.resources
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmSatislar.resources
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmSifreDegistir.resources
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunDuzenle.resources
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunEkle.resources
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunGoster.resources
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunGrup.resources
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\SRBST_Kafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.exe
+C:\Users\Aykut\Desktop\Yeni klasör\Kafe otomasyon\proje\proje\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.pdb
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.exe.config
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.exe
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.pdb
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmKullaniciEkle.resources
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmAna.resources
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmGiris.resources
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmMasa.resources
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmSatislar.resources
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmSifreDegistir.resources
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunDuzenle.resources
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunEkle.resources
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunGoster.resources
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunGrup.resources
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\SRBST_Kafe_Otomasyonu.Properties.Resources.resources
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.exe
+C:\Users\X\Desktop\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.pdb
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.exe.config
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.exe
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.pdb
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmKullaniciEkle.resources
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmAna.resources
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmGiris.resources
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmMasa.resources
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmSatislar.resources
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmSifreDegistir.resources
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunDuzenle.resources
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunEkle.resources
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunGoster.resources
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunGrup.resources
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\SRBST_Kafe_Otomasyonu.Properties.Resources.resources
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.exe
+C:\Users\ozans\OneDrive\Masaüstü\Kafe otomasyon\Kafe otomasyon\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.pdb
